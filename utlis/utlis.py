@@ -1,6 +1,8 @@
 # -*- coding:utf-8 -*-
 import random
 import global_varible
+import json
+import csv
 
 
 class SpiderVariable():
